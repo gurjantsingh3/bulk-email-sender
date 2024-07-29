@@ -1,6 +1,6 @@
 # Bulk Email Sender
 
-Culk Email Sender is a Python application designed to facilitate sending emails using SendGrid. This README provides information on setting up and configuring the application.
+Bulk Email Sender is a Python application designed to facilitate sending emails using SendGrid. This README provides information on setting up and configuring the application.
 
 ## Installation
 
