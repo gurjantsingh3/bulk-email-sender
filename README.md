@@ -15,9 +15,9 @@ Culk Email Sender is a Python application designed to facilitate sending emails 
 The application uses a .env file to store sensitive configuration details. Create a file named .env in the root directory of the project and include the following environment variables:
 
 2. Set ENV FILE:
-
+   ```bash
    PYTHONHTTPSVERIFY=0
    SECRET_KEY='your-secret-key-here'
    SENDGRID_API_KEY='your-sendgrid-api-key-here'
    SENDGRID_FROM_EMAIL='your-sendgrid-from-email-here'
-# bulk-email-sender
+   ```
